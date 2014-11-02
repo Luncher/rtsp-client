@@ -1,0 +1,1 @@
+A DEMO based on RTSP protocol, used to resolve the H264 video file and stored
